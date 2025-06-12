@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tykalka-app/static/css/main.8b694afe.css",
+    "main.js": "/tykalka-app/static/js/main.9d909a8a.js",
+    "index.html": "/tykalka-app/index.html",
+    "main.8b694afe.css.map": "/tykalka-app/static/css/main.8b694afe.css.map",
+    "main.9d909a8a.js.map": "/tykalka-app/static/js/main.9d909a8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b694afe.css",
+    "static/js/main.9d909a8a.js"
+  ]
+}
